@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "009_union_types.ts"
+  ]
+}
