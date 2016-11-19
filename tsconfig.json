@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "009_union_types.ts"
+    "010_aritmetic_operators.ts"
   ]
 }

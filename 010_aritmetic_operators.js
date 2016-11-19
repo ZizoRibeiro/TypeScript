@@ -1,46 +1,29 @@
-// +, -, *, /, %, ++, --
-
-var numOne : number = 1;
-var numTwo : number = 2;
-
-// Addition
+var numOne = 1;
+var numTwo = 2;
 console.log("Addition:");
 console.log(numOne + numTwo);
-
-// Subtraction
 console.log("Subtraction:");
 console.log(numOne - numTwo);
-
-//Multiplication
 console.log("MultiplicationK:");
 numOne = 10;
 numTwo = 40;
 console.log(numOne * numTwo);
-
-// Division
 console.log("Division:");
 console.log(numTwo / numOne);
-
-// Modulus
 console.log("Modulus:");
-var numThree : number = 2;
-var numFour : number = 3;
+var numThree = 2;
+var numFour = 3;
 console.log(numFour % numThree);
-
-// Incrementor
 console.log("Incrementor: ");
-var x : number = 0;
-
-while ( x < 10) {
-  console.log(x);
-  x++;
+var x = 0;
+while (x < 10) {
+    console.log(x);
+    x++;
 }
-
-// Decrementor
 console.log("Decrementor:");
-var x : number = 10;
-
+var x = 10;
 while (x > 0) {
-  console.log(x);
-  x--;
+    console.log(x);
+    x--;
 }
+//# sourceMappingURL=010_aritmetic_operators.js.map
